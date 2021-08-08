@@ -1,0 +1,23 @@
+- Weschler (1975) - the capacity of a person to understand the world and meet its demands
+- Kline (1991) - a general reasoning capacity useful in problem-solving tasks of all kinds
+- Humphreys (1994) - The total intellectual repertoire of behvaioural responses an individual has attained at any given point of time
+- Jensen (1994) - Some general property or quality of the brian
+- Spearman (1904) - proto theory, "General intelligence" 
+ 	- conceived idea from positive correlations across differing abilities on test score data from schools
+ 	- Created factor analysis to analyse this covariance 
+ 	- Single factor account for majority of variance "G"
+- Cattell (1967)
+	- Fluid intelligence - basic reasoning ability based on Working Memory/Processing Speed
+			- heritable and biologically based
+	- Crystallised intelligence - factual knowledge
+		- Investment theory - crystallised ability comes from exercising fluid ability
+- Carroll (1993) - three statum theory
+	- In respective order of magnitude, Stratum 1 (60 narrow abilities), 2 (broad abilities e.g fluid intelligence), 3 (G)
+	- Majority of variance accounted for by G
+- IQ
+	- Humphreys - impressive continuity
+	- Show stability over time
+	- Great predictors of both academic and occupational attaintment
+	- Heritability of IQ varies from 40 to 80% across dozens of family, twin and adoption studies (Haworth et al. 2010)
+	- Kovas (2013) Literacy and umeracy, more heritable than G factor intelligence in primary school
+	- Flynn effect (1987) rise of 3 pts per 10 years in IQ scores across a population, may be due to shift to abstract problem solving from technology (Flynn, 2009)
